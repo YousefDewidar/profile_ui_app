@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="todo">TODO</string>
+    <string name="app_name">Profile Task</string>
+    <string name="email_data">ymahmoud1213@gmail.com</string>
+    <string name="date_data">20/10/2003</string>
+    <string name="password_data">**************</string>
+    <string name="title_view">تعديل الملف الشخصي</string>
+    <string name="name">الاسم</string>
+    <string name="name_data">يوسف محمود دويدار</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="date_of_birth">تاريخ الميلاد</string>
+    <string name="button_save">حفظ التغيرات</string>
+    <string name="password">الرقم السري</string>
+</resources>
